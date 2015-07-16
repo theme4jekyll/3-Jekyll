@@ -11,7 +11,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+filter: 'category'
 
 
 # Social account
@@ -36,3 +36,15 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
