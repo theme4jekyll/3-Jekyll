@@ -2,7 +2,7 @@
 layout: post
 title: About Octopress
 modified:
-categories: 
+categories: 主题帮助
 description:
 tags: []
 date: 2015-07-16T22:32:35+08:00
