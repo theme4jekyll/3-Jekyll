@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started
-categories: 主题帮助
+categories: theme-help
 tags: []
 date: 2015-07-16T23:06:41+08:00
 ---
